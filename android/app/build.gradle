@@ -6,11 +6,7 @@ plugins {
 }
 
 android {
-<<<<<<< HEAD
-    namespace = "com.example.instagramgit"
-=======
     namespace = "com.example.instargram"
->>>>>>> 6ab1b5bfee0a4d0533499bc9599f110893074027
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 

@@ -23,14 +23,15 @@ class VideoScreen extends StatelessWidget {
               bottom: 20,
               child: Row(
                 children: [
-                  CircleAvatar(
+                  const CircleAvatar(
                     radius: 25,
-                    backgroundImage: NetworkImage('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv309Nsi3LgXYEbkx2IKuCc8RJN1jLva6iAA&s'), // Profile Image
+                    backgroundImage: NetworkImage(
+                        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv309Nsi3LgXYEbkx2IKuCc8RJN1jLva6iAA&s'), // Profile Image
                   ),
                   const SizedBox(width: 10),
-                  Column(
+                  const Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
-                    children: const [
+                    children: [
                       Text(
                         'vogue_blackboxx',
                         style: TextStyle(
@@ -69,26 +70,28 @@ class VideoScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   IconButton(
-                    icon: const Icon(Icons.favorite, color: Colors.white, size: 30),
+                    icon: const Icon(Icons.favorite,
+                        color: Colors.white, size: 30),
                     onPressed: () {},
                   ),
-                  const Text('479', style: TextStyle(color: Colors.white, fontSize: 14)),
-
+                  const Text('479',
+                      style: TextStyle(color: Colors.white, fontSize: 14)),
                   const SizedBox(height: 10),
-
                   IconButton(
-                    icon: const Icon(Icons.comment, color: Colors.white, size: 30),
+                    icon: const Icon(Icons.comment,
+                        color: Colors.white, size: 30),
                     onPressed: () {},
                   ),
-                  const Text('7', style: TextStyle(color: Colors.white, fontSize: 14)),
-
+                  const Text('7',
+                      style: TextStyle(color: Colors.white, fontSize: 14)),
                   const SizedBox(height: 10),
-
                   IconButton(
-                    icon: const Icon(Icons.send_outlined, color: Colors.white, size: 30),
+                    icon: const Icon(Icons.send_outlined,
+                        color: Colors.white, size: 30),
                     onPressed: () {},
                   ),
-                  const Text('Share', style: TextStyle(color: Colors.white, fontSize: 14)),
+                  const Text('Share',
+                      style: TextStyle(color: Colors.white, fontSize: 14)),
                 ],
               ),
             ),
