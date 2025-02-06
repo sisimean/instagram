@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # instagramgit
+=======
+# instargram
+>>>>>>> 6ab1b5bfee0a4d0533499bc9599f110893074027
 
 A new Flutter project.
 

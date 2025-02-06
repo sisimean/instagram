@@ -1,10 +1,18 @@
 # Project-level configuration.
 cmake_minimum_required(VERSION 3.14)
+<<<<<<< HEAD
 project(instagramgit LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
 set(BINARY_NAME "instagramgit")
+=======
+project(instargram LANGUAGES CXX)
+
+# The name of the executable created for the application. Change this to change
+# the on-disk name of your application.
+set(BINARY_NAME "instargram")
+>>>>>>> 6ab1b5bfee0a4d0533499bc9599f110893074027
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

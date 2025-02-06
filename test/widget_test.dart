@@ -8,12 +8,20 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:instagramgit/main.dart';
+=======
+import 'package:instargram/main.dart';
+>>>>>>> 6ab1b5bfee0a4d0533499bc9599f110893074027
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
+<<<<<<< HEAD
     await tester.pumpWidget(const MyApp());
+=======
+
+>>>>>>> 6ab1b5bfee0a4d0533499bc9599f110893074027
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);

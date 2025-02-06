@@ -27,7 +27,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
+<<<<<<< HEAD
   if (!window.Create(L"instagramgit", origin, size)) {
+=======
+  if (!window.Create(L"instargram", origin, size)) {
+>>>>>>> 6ab1b5bfee0a4d0533499bc9599f110893074027
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);

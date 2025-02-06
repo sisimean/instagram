@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="instagramgit"
+=======
+        android:label="instargram"
+>>>>>>> 6ab1b5bfee0a4d0533499bc9599f110893074027
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

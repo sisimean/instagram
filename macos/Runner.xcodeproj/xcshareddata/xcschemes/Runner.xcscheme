@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "instagramgit.app"
+=======
+               BuildableName = "instargram.app"
+>>>>>>> 6ab1b5bfee0a4d0533499bc9599f110893074027
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "instagramgit.app"
+=======
+            BuildableName = "instargram.app"
+>>>>>>> 6ab1b5bfee0a4d0533499bc9599f110893074027
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -65,7 +73,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "instagramgit.app"
+=======
+            BuildableName = "instargram.app"
+>>>>>>> 6ab1b5bfee0a4d0533499bc9599f110893074027
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -82,7 +94,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "instagramgit.app"
+=======
+            BuildableName = "instargram.app"
+>>>>>>> 6ab1b5bfee0a4d0533499bc9599f110893074027
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

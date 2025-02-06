@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "instagramgit",
     "short_name": "instagramgit",
+=======
+    "name": "instargram",
+    "short_name": "instargram",
+>>>>>>> 6ab1b5bfee0a4d0533499bc9599f110893074027
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

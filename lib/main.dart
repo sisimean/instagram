@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+<<<<<<< HEAD
 void main() {
   runApp(const MyApp());
 }
@@ -122,4 +123,11 @@ class _MyHomePageState extends State<MyHomePage> {
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
+=======
+import 'basic_app/basic_app.dart';
+
+
+void main(){
+  runApp(BasicApp());
+>>>>>>> 6ab1b5bfee0a4d0533499bc9599f110893074027
 }
